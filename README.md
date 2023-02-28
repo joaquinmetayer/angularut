@@ -1,14 +1,15 @@
 ## Angular Unit Testing Guide
 
-![national-cancer-institute-7GnOQLtAnFY-unsplash](https://user-images.githubusercontent.com/83543601/221720258-f0ecef09-1812-4421-8386-3fa3ef62e8f5.jpg)
+<img width="100%" alt="Screenshot 2023-02-27 at 21 21 56" src="https://user-images.githubusercontent.com/83543601/221725673-629a6649-5ca7-4ee3-8980-e29d086fc824.png">
 
+Creado por **ChatGPT**.
+Revisado, corregido dando agregados y aplicado por **Joaquin Metayer**.
 
 Para esos desarrolladores frontend en Angular que quieren aprender a cómo aplicar Unit Testing o Test Unitarios a su código. 
 
 Podría dar más explicaciones y contexto de donde estamos, pero si llegaste a este post solo quieres aprender a como agregar y crear tus propios tests así que vamos con la guía, espero que te sea de ayuda como lo fue para mi crearla. 
 
 **¿Tienes algo para aportar? Pull request y lo vemos!**
-
 Comencemos…
 
 ## 1. Configuración inicial
