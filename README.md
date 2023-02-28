@@ -1,6 +1,4 @@
-## Angular Unit Testing Guide
-
-<img width="100%" alt="Screenshot 2023-02-27 at 21 21 56" src="https://user-images.githubusercontent.com/83543601/221725673-629a6649-5ca7-4ee3-8980-e29d086fc824.png">
+### Angular Unit Testing Guide
 
 Creado por **ChatGPT**.
 Revisado, corregido dando agregados y aplicado por **Joaquin Metayer**.
@@ -11,6 +9,9 @@ Podría dar más explicaciones y contexto de donde estamos, pero si llegaste a e
 
 **¿Tienes algo para aportar? Pull request y lo vemos!**
 Comencemos…
+
+<img width="100%" alt="Screenshot 2023-02-27 at 21 21 56" src="https://user-images.githubusercontent.com/83543601/221725673-629a6649-5ca7-4ee3-8980-e29d086fc824.png">
+<i>No te distraigas leyendo este texto ni tampoco preguntándote porque agregue una foto de un científico en su laboratorio, ahora que tengo tu atención, ponte a leer la guia, gracias.<i>
 
 ## 1. Configuración inicial
 
