@@ -39,7 +39,7 @@ Para cada componente, se debe crear un archivo de prueba. Por convención, se su
 
 La estructura básica del archivo de prueba es la siguiente:
 
-```typescript
+```js
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 import { MiComponenteComponent } from './mi-componente.component';
 
